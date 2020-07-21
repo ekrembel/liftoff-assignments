@@ -1,4 +1,4 @@
-![Homepage](/Wireframes/1.jpg)
+![Homepage](/images/homepage.HEIC)
 ![Create Account](/Wireframes/2-CreateAccount.jpg)
 ![Login](/Wireframes/3-Login.jpg)
 ![Forgot Password](/Wireframes/4-ForgotPassword.jpg)
