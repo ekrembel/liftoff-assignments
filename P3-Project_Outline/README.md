@@ -1,7 +1,7 @@
 # Wireframes of my project
 
 
-![Homepage](/images/homepage.jpg)
+![Homepage](images/homepage.jpg)
 ![Create Account](/images/createaccount.jpg)
 ![Login](/images/login.jpg)
 ![Forgot Password](/images/reset.jpg)
