@@ -1,7 +1,7 @@
 # Wireframes of my project
 
 
-![Homepage](https://octodex.github.com/images/yaktocat.png)
+![Homepage](/images/homepage.jpg)
 ![Create Account](/images/createaccount.jpg)
 ![Login](/images/login.jpg)
 ![Forgot Password](/images/reset.jpg)
